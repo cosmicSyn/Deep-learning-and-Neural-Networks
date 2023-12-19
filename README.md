@@ -4,22 +4,22 @@
 - The goal of this repository is to showcase my implementations of deep neural networks for various tasks, including a basic deep neural network, logistic regression using deep neural networks, and an image classification model.
 
 ## Approach
-- Employed Python and NumPy for the implementation of deep learning algorithms.
+- Employed Python and NumPy and Pandas for the implementation of deep learning algorithms, from scratch(without the use of popular deep learning frameworks).
 - Utilized popular deep learning concepts for solving specific tasks.
 
 ## Implementation
 
 ### 1. Deep Neural Network from Scratch
 - Implemented a basic deep neural network to understand the fundamentals.
-- File: `deep_neural_network.py`
+- File: `Building_your_Deep_Neural_Network_Step_by_Step.ipynb`
 
 ### 2. Logistic Regression using Deep Neural Network
 - Extended the basic deep neural network to perform logistic regression.
-- File: `logistic_regression_with_deep_nn.py`
+- File: `Logistic_Regression_with_a_Neural_Network_mindset.ipynb`
 
 ### 3. Image Classification using Deep Neural Network
 - Developed an image classification model using a deep neural network.
-- File: `image_classification_deep_nn.py`
+- File: `Deep Neural Network - Application.ipynb`
 
 ## Usage
 - Each Python file can be run independently to see the implementation and results.
